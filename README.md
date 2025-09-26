@@ -3,7 +3,7 @@
 
 # Robot Control Scripts
 
-This project contains three small but powerful Python scripts simulating basic robotic behaviors. These scripts are designed to demonstrate key programming concepts such as loops, conditionals, functions, error handling, and decision-making logic — all through the lens of robotics.
+This project contains three small but powerful Python scripts simulating basic robotic behaviors. These scripts are designed to demonstrate key programming concepts such as loops, conditionals, functions, error handling, and decision-making logic; all through the lens of robotics.
 
 ---
 
